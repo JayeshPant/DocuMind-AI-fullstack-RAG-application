@@ -1,31 +1,39 @@
 %PDF-1.4
-1 0 obj
-<< /Type /Catalog /Pages 2 0 R >>
-endobj
-2 0 obj
-<< /Type /Pages /Kids [3 0 R] /Count 1 >>
-endobj
-3 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R >> >> /Contents 5 0 R >>
-endobj
-4 0 obj
-<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
-endobj
-5 0 obj
-<< /Length 380 >>
-stream
+1 0 obj << /Type /Catalog /Pages 2 0 R >> endobj
+2 0 obj << /Type /Pages /Kids [3 0 R] /Count 1 >> endobj
+3 0 obj << /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R >> >> /Contents 5 0 R >> endobj
+4 0 obj << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> endobj
+5 0 obj << /Length 750 >> stream
 BT
-/F1 12 Tf
-50 720 Td
-(Statistical Techniques: Principle of Least Squares) Tj
-0 -20 Td
-(To fit a straight line y = a + bx to n pairs of observations, the normal equations are:) Tj
-0 -20 Td
-(Equation 1: sum(y) = n*a + b*sum(x)) Tj
-0 -20 Td
-(Equation 2: sum(x*y) = a*sum(x) + b*sum(x^2)) Tj
-0 -20 Td
-(Solving these two normal equations simultaneously yields the parameters a and b.) Tj
+/F1 11 Tf
+50 740 Td
+(STATISTICAL TECHNIQUES - EXAMINATION & STUDY GUIDE) Tj
+0 -24 Td
+(Q1. What are the normal equations for fitting a straight line using the principle of least squares?) Tj
+0 -16 Td
+(Ans: For fitting a straight line y = a + bx to n pairs of observations, the normal equations are:) Tj
+0 -16 Td
+(  Equation 1: sum(y) = n*a + b*sum(x)) Tj
+0 -16 Td
+(  Equation 2: sum(x*y) = a*sum(x) + b*sum(x^2)) Tj
+0 -16 Td
+(Solving these two equations simultaneously yields the parameter constants a and b.) Tj
+0 -24 Td
+(Q2. Define the principle of least squares in statistical curve fitting.) Tj
+0 -16 Td
+(Ans: The principle of least squares minimizes the sum of squared differences between observed and fitted values.) Tj
+0 -24 Td
+(Q3. What is the difference between correlation and regression analysis?) Tj
+0 -16 Td
+(Ans: Correlation measures the degree and direction of linear association, while regression predicts a response.) Tj
+0 -24 Td
+(Q4. Explain the method of moments in parameter estimation.) Tj
+0 -16 Td
+(Ans: The method of moments equates population moments to sample moments to estimate distribution parameters.) Tj
+0 -24 Td
+(Q5. State the assumptions of ordinary least squares (OLS) regression.) Tj
+0 -16 Td
+(Ans: OLS assumes linearity, independent observations, homoscedasticity, and normally distributed errors.) Tj
 ET
 endstream
 endobj
@@ -37,8 +45,7 @@ xref
 0000000115 00000 n 
 0000000227 00000 n 
 0000000306 00000 n 
-trailer
-<< /Size 6 /Root 1 0 R >>
+trailer << /Size 6 /Root 1 0 R >>
 startxref
-738
+1110
 %%EOF

@@ -2,16 +2,30 @@
 .env
 .env.*
 !.env.example
+**/.env
+**/.env.*
+!**/.env.example
 
-# Python virtual environment
+# Python virtual environment & cache
 .venv/
 venv/
 env/
-
-# Byte-compiled / optimized files
 __pycache__/
+**__pycache__/
 *.py[cod]
 *$py.class
+.pytest_cache/
+
+# Node & Frontend build output
+node_modules/
+**/node_modules/
+dist/
+**/dist/
+.vite/
+
+# Uploaded runtime documents (preserve document_loader for defaults)
+backend/uploads/*
+!backend/uploads/.gitkeep
 
 # IDE and OS files
 .vscode/
