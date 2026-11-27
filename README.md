@@ -1,5 +1,8 @@
 # DocuMind AI
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-red?logo=streamlit)](https://documind-ai-fullstack-rag-applicationgit-upu8rehgocngbkyvwccvw.streamlit.app/)
+
+
 **Your Intelligent PDF Question Answering Assistant**
 
 > 📖 **First time running this project?** Check out the step-by-step [**Quick Start & Run Guide (RUN_GUIDE.md)**](file:///c:/Users/Jayesh/OneDrive/Desktop/RAG%20application/RUN_GUIDE.md) for Windows, macOS, and Linux setup instructions!
